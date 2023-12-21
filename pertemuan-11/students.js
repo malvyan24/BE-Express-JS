@@ -2,7 +2,7 @@
 const studentsData = [
     "Mikel",
     "Hannah",
-    "Jonas",
+    "Alpian imut",
 ];
 
   // TODO 2: export data students
